@@ -2,5 +2,5 @@
   "name": "Altruid Token",
   "symbol": "ALTR",
   "description": "Example token for testing.",
-  "image": "https://github.com/Rob287/solana/ALTR.png"
+  "image": "https://raw.githubusercontent.com/Rob287/solana/main/ALTR.png"
 }
